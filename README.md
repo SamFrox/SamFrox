@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello There
+
+### Software I Use
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
+
+[![](e)]
 
 <!--
 **SamFrox/SamFrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
